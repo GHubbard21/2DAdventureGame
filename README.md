@@ -4,6 +4,7 @@
 Also download here https://ghubbard21.itch.io/apk-bandit-2d-adventure
 
 Attributions:
+
 World Tiles: https://opengameart.org/content/overworld-tiles-0
 
 Bandit Sprite: https://opengameart.org/content/bandit-sprite-16x16
